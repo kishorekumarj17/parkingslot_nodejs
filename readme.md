@@ -21,9 +21,9 @@
   }
   }
   
-  2. GET /getslot/<Parkinglot ID>/<Size>  - To get a slot in parking space
+  2. GET /getslot/Parkinglot ID/Size  - To get a slot in parking space
   
-  3. GET /releaseslot/<Parkinglot ID>/<slot id> - To release a slot in parking space
+  3. GET /releaseslot/Parkinglot ID/slot id - To release a slot in parking space
   
 **Firestore transactions:**
   
